@@ -170,8 +170,10 @@ int main() {
 ```
 
  ## OUTPUT
+![WhatsApp Image 2025-06-02 at 10 26 42 AM](https://github.com/user-attachments/assets/3b2e6539-036b-4072-9ba6-7a7535f271bf)
 
- ![alt text](image-3.png)
+
+ 
 
 ## RESULT
 
